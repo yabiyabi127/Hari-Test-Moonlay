@@ -16,5 +16,3 @@ install all package
 Runs the app\
 Open [http://localhost:3000](http://localhost:3000)view in Direfox/Chrome
 
-### `npm run build`
-### To Be soon `Improved`
